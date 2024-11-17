@@ -1,0 +1,44 @@
+/*Shades for Golden Magical Experience*/
+body {
+    background-color: #BA5624;
+    color: #C4D6B0;
+    font-family:Papyrus, fantasy;
+      }
+      
+a {
+    color: #FFA552;
+    line-height: 1.5;
+
+}
+/*Hover highlight for Visual Effect*/
+a:hover, 
+a:focus {
+    color: #FCDE9C;
+}
+
+
+h1 {
+    font-size: 40px;
+    color: #FDD08A;
+      }
+  /*Fonts useful by Win & Mac*/    
+h2 {
+    font-size: 25px;
+    color: rgb(159, 21, 21);
+}
+
+.box {
+    background: #381D2A;
+    margin: 50px;
+    border-width: 30px;
+    border-color:#49311a;
+    border-style: solid;
+    padding: 50px 50px;
+    color: yellow;
+    font-family:"Copperplate Gothic Light" ;
+    
+}
+input {
+    background: #49311a;
+    color:burlywood;
+}
